@@ -1,0 +1,37 @@
+{
+  "item": {
+    "name": "动态爱莉希雅",
+    "description": "动态爱莉希雅表盘，真我之律者，支持小米手环9和小米手环10。QQ交流群: 758279876",
+    "preview": [
+      "cover.png",
+      "band10.png",
+      "band10aod.png"
+    ],
+    "icon": "icon.png",
+    "source_url": "https://github.com/YcFeller/watchface-elysia",
+    "author": [
+      {
+        "name": "YcFeller",
+        "author_url": "https://wear.xunrix.com/author/1"
+      }
+    ]
+  },
+  "downloads": {
+    "o66": {
+      "version": "v2.0",
+      "file_name": "elysia_v2_b10.bin"
+    },
+    "o66nfc": {
+      "version": "v2.0",
+      "file_name": "elysia_v2_b10.bin"
+    },
+    "n66": {
+      "version": "v1.0",
+      "file_name": "elysia_v1_b9.bin"
+    },
+    "n66nfc": {
+      "version": "v1.0",
+      "file_name": "elysia_v1_b9.bin"
+    }
+  }
+}
